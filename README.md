@@ -1,5 +1,5 @@
- # no
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+# no
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -28,7 +28,7 @@ no
 
 ## License
 
-[[License: GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
+This project is covered under the following license: [License: MIT License](https://opensource.org/licenses/MIT)
 
 
 ## Contributing
@@ -43,8 +43,9 @@ no
 
 ## Questions
 
-Link to my Github profile
+Link to my Github profile:
 - [no](https://github.com/no)
 
-Feel free to email me if you have any additional questions
+Please email me at the address below if you have any additional questions:
 - [no](mailto:no)
+
