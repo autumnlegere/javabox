@@ -28,7 +28,7 @@ no
 
 ## License
 
-[![License: GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
+[[License: GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
 
 
 ## Contributing
