@@ -1,52 +1,50 @@
-`# ${title}
+ # no
+  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Description
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-
-${motivation} ${problem} ${learn} ${other}
+no
 
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 
 ## Installation
 
-${installation}
+no
 
 
 ## Usage
 
-${usage}
+no
 
 
 ## License
 
--license functions link to here
+[![License: GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
 
 
 ## Contributing
 
-${contributing}
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 
 ## Tests
 
-${tests}
+no
 
 
 ## Questions
 
 Link to my Github profile
-- [${github}](https://github.com/${github})
+- [no](https://github.com/no)
 
 Feel free to email me if you have any additional questions
-- [${email}](mailto:${email})
-`
+- [no](mailto:no)
